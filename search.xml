@@ -6,6 +6,18 @@
       <title><![CDATA[首發實測]]></title>
       <url>/2017/11/First-Post/</url>
       <content type="html"><![CDATA[<h1 id="首發！"><a href="#首發！" class="headerlink" title="首發！"></a>首發！</h1><p>這是第一篇文章，測試<strong>文章分類</strong>。</p>
+<h2 id="區塊"><a href="#區塊" class="headerlink" title="區塊"></a>區塊</h2><p>首先測試區塊表示</p>
+<blockquote>
+<p>這是<strong>多行引言</strong><br>如果這樣的話就是<em>引言</em>的區塊</p>
+<blockquote>
+<p>還有這樣就是<em>階層式</em>的引言<br>測試</p>
+</blockquote>
+</blockquote>
+<p>以下測試程式碼區塊</p>
+<pre><code>This is sample code.
+retrun false
+</code></pre><hr>
+<p>其實這只是一小段程式碼： <code>print(&quot;Hello world!&quot;)</code> 的示範</p>
 ]]></content>
       
         
